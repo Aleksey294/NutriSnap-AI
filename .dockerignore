@@ -1,0 +1,10 @@
+.env
+.env.*
+.docker-check
+.venv
+.git
+data
+__pycache__
+.pytest_cache
+.ruff_cache
+tests

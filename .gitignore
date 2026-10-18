@@ -1,0 +1,12 @@
+.env
+.env.*
+.docker-check/
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+data/
+*.db*
+*.sqlite*
+*.heartbeat
+*.log
